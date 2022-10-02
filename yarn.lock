@@ -1661,6 +1661,14 @@
     axios "^0.26.1"
     query-string "^7.1.1"
 
+"@pankod/refine-strapi-v4@^3.35.0":
+  version "3.35.0"
+  resolved "https://registry.yarnpkg.com/@pankod/refine-strapi-v4/-/refine-strapi-v4-3.35.0.tgz#82514ee3a04438a9cfa697ed49db23149451a724"
+  integrity sha512-8jfj44/guqrirdSoqKl2r3stHp/WZUURf+W1GJQj+8t7xEAj15VNsYcwyNiwV8WtJ+aEQ94y6qDN/tG23DlUqA==
+  dependencies:
+    axios "^0.26.1"
+    qs "^6.10.1"
+
 "@pankod/refine-ui-types@^0.11.2":
   version "0.11.2"
   resolved "https://registry.yarnpkg.com/@pankod/refine-ui-types/-/refine-ui-types-0.11.2.tgz#6198b408d2b8c181e6a6fd3a45de4cc079b68df1"
@@ -2845,7 +2853,7 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-autoprefixer@^10.4.11:
+autoprefixer@^10.4.11, autoprefixer@^10.4.12:
   version "10.4.12"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-10.4.12.tgz#183f30bf0b0722af54ee5ef257f7d4320bb33129"
   integrity sha512-WrCGV9/b97Pa+jtwf5UGaRjgQIg7OK3D06GnoYoZNcG1Xb8Gt3EfuKjlhh9i/VtT16g6PYjZ69jdJ2g8FxSC4Q==
@@ -7677,7 +7685,7 @@ postcss@^7.0.35:
     picocolors "^0.2.1"
     source-map "^0.6.1"
 
-postcss@^8.3.5, postcss@^8.4.14, postcss@^8.4.4, postcss@^8.4.7:
+postcss@^8.3.5, postcss@^8.4.14, postcss@^8.4.17, postcss@^8.4.4, postcss@^8.4.7:
   version "8.4.17"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.17.tgz#f87863ec7cd353f81f7ab2dec5d67d861bbb1be5"
   integrity sha512-UNxNOLQydcOFi41yHNMcKRZ39NeXlr8AxGuZJsdub8vIb12fHzcq37DTU/QtbI6WLxNg2gF9Z+8qtRwTj1UI1Q==
@@ -9296,7 +9304,7 @@ symbol-tree@^3.2.4:
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.4.tgz#430637d248ba77e078883951fb9aa0eed7c63fa2"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
 
-tailwindcss@^3.0.2:
+tailwindcss@^3.0.2, tailwindcss@^3.1.8:
   version "3.1.8"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.1.8.tgz#4f8520550d67a835d32f2f4021580f9fddb7b741"
   integrity sha512-YSneUCZSFDYMwk+TGq8qYFdCA3yfBRdBlS7txSq0LUmzyeqRe3a8fBQzbz9M3WS/iFT4BNf/nmw9mEzrnSaC0g==
